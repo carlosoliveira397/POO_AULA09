@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Número Primo</h1>
+        <%@include file="WEB-INF/jspf/menu.jspf" %>
+        <h2>Número Primo</h2>
     </body>
 </html>

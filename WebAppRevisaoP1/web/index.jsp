@@ -12,11 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>POO_Aula 09 - Revisão P1</h1>
+        <%@include file="WEB-INF/jspf/menu.jspf" %>
         <h2>RA: 1290482222035</h2>
         <h2>Nome: Carlos Henrique de Oliveira</h2>
-        <a href="numero-primo.jsp">primo</a>
-        <a href="fibonacci.jsp">fibonacci</a>
-        <a href="soma.jsp">soma</a>
     </body>
 </html>
