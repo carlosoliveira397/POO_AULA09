@@ -2,6 +2,6 @@
 <%@ page pageEncoding="UTF-8" %>
 <h1>POO_Aula 09 - Revisão P1</h1>
 | <a href="${pageContext.request.contextPath}/index.jsp">Index</a> |
- <a href="${pageContext.request.contextPath}/numero-primo.jsp">primo</a> |
- <a href="${pageContext.request.contextPath}/fibonacci.jsp">fibonacci</a> |
- <a href="soma.jsp">soma</a> |
+ <a href="${pageContext.request.contextPath}/numero-primo.jsp">Primo</a> |
+ <a href="${pageContext.request.contextPath}/fibonacci.jsp">Fibonacci</a> |
+ <a href="soma.jsp">Soma</a> |
